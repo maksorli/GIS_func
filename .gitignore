@@ -1,0 +1,9 @@
+#mnt
+mnt/
+new/
+output/ 
+*.mid
+*.mif
+*.ipynb
+separate.code-workspace
+table.html
