@@ -6,4 +6,4 @@ output/
 *.mif
 *.ipynb
 separate.code-workspace
-table.html
+*.html
